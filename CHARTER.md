@@ -11,13 +11,13 @@ Linux Foundation APAC Education And Talent Development SIG （以下简称 “SI
 
 ## 如何参与 SIG 活动
 任何对开源教育以及开源人才培养感兴趣的个人和组织均可参与 SIG 活动。加入方式如下：
-1. 访问 SIG GitHub Repo，提交 issue 申请加入。
+1. 访问 SIG GitHub Repo，[提交 issue](https://github.com/lfapac-open-source-evangelist/education-and-talent-development-sig/issues/new?assignees=sunny0826&labels=new+member&projects=&template=apply-to-join-the-edu-sig.md&title=%5BNew+Member%5D) 申请加入。
 2. 添加主席微信，由主席拉入 SIG 微信群。
 3. 参加 SIG 举办的线上或线下活动，如 meetup、讲座、培训、社區例會、文章/博客分享等。
 4. 积极参与活动的成员，会被推荐成为 member，member 信息将会需更新在 GitHub repo。
 
 ## 社区例会
-SIG 将定期最后一周的周三举行社区例会（时间由主席任期开始时投票决定）。会议主要用于讨论 SIG 的活动、项目、教育资源等相关事宜。社区例会的组织方式如下：
+SIG 将定期举行社区例会（时间由主席任期开始时投票决定）。会议主要用于讨论 SIG 的活动、项目、教育资源等相关事宜。社区例会的组织方式如下：
 1. 主席在每次例会前会先将收集好的 Agenda 更新在会议文档中，有需要讨论的内容请提前与主席沟通。
 2. 例会开始前，主席会按照 Template 更新例会文档，并将会议链接与 Agenda 链接发送到微信群。
 3. 社区例会将以轻松、互动的方式进行，鼓励所有成员积极参与讨论和分享经验。
