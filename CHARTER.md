@@ -1,20 +1,20 @@
 # SIG Charter 章程
 
-Education 特别兴趣小组 （SIG） 是由对开源教育以及开源人才培养感兴趣的专家、工作人员和成员组成的小组。特别兴趣小组不是官方组织，有 Linux 基金会成员参与，但大部分成员都并非基金会成员。成员角色偏向志愿者，更为非正式、自我导向，通常涉及来自企业、社区的专家和积极分子。该 SIG 的生命力主要取决于其成员的积极参与和承诺。
+Education 特别兴趣小组 （SIG） 是由对开源教育以及开源人才培养感兴趣的专家、工作人员和成员组成的小组。特别兴趣小组不是官方组织，有 Linux 基金会亚太区成员参与，但大部分成员都并非基金会成员。成员角色偏向志愿者，更为非正式、自我导向，通常涉及来自企业、社区的专家和积极分子。该 SIG 的生命力主要取决于其成员的积极参与和承诺。
 
 ## 主席产生的方式/流程
 Linux Foundation APAC Education And Talent Development SIG （以下简称 “SIG”）的主席需要是LFAPAC開源布道者成員之一。将由 SIG 成员选举产生。主席的任期为一年，由每年 4月1日 至下一年 3月31日，可连任。选举流程如下：
 1. 任何 SIG 成员均可提名自己或其他成员为主席候选人。
 2. 提名将在选举前的两周内进行，提名结束后，候选人名单将公布在 SIG 微信群/Github repo 中。
 3. 选举将通过在线投票方式进行，投票期限为一周。投票结束后，票数最高的候选人将当选为主席。
-4. 若出现票数相同的情况，由 Linux 基金会亞太區成员指定最终当选者。相同票数的两人再进行一次投票。
+4. 若出现票数相同的情况，相同票数的两人再进行一次投票。
 
 ## 如何参与 SIG 活动
 任何对开源教育以及开源人才培养感兴趣的个人和组织均可参与 SIG 活动。加入方式如下：
 1. 访问 SIG GitHub Repo，[提交 issue](https://github.com/lfapac-open-source-evangelist/education-and-talent-development-sig/issues/new?assignees=sunny0826&labels=new+member&projects=&template=apply-to-join-the-edu-sig.md&title=%5BNew+Member%5D) 申请加入。
 2. 添加主席微信，由主席拉入 SIG 微信群。
 3. 参加 SIG 举办的线上或线下活动，如 meetup、讲座、培训、社區例會、文章/博客分享等。
-4. 积极参与活动的成员，会被推荐成为 member，member 信息将会需更新在 GitHub repo。
+4. 积极参与活动的成员，会被推荐成为 member，member 信息将会需更新在 [GitHub repo](https://github.com/lfapac-open-source-evangelist/education-and-talent-development-sig)。
 
 ## 社区例会
 SIG 将定期举行社区例会（时间由主席任期开始时投票决定）。会议主要用于讨论 SIG 的活动、项目、教育资源等相关事宜。社区例会的组织方式如下：
@@ -37,11 +37,11 @@ SIG 鼓励所有成员积极参与贡献，以推动开源教育以及开源人�
 
 ## FAQ
 ### SIG 的愿景是什么
-1.让更多的人了解开源、Linux 基金会和 Linux 基金会项目，推动开源在中国的发展。
-2.培养更多的开源人才。
+1. 让更多的人了解开源、Linux 基金会和 Linux 基金会项目，推动开源在中国的发展。
+2. 培养更多的开源人才。
 
 ### SIG 是否会为贡献者颁发证书或奖励
-Linux 基金会每年都会为突出贡献者颁发证书或奖品，以表彰的贡献。具体评选标准和奖励方式将视贡献情况而定。
+Linux 基金会亚太区每年都会为突出贡献者颁发证书或奖品，以表彰的贡献。具体评选标准和奖励方式将视贡献情况而定。
 
 ### 如何成为 Linux Foundation APAC 开源布道者（Open Source Evangelist）
-积极参与 SIG 以及 Linux 基金会组织的各种活动，获得至少一位开源布道者的提名，最终由 Linux 基金会审核通过后，邀请加入 Linux Foundation APAC 开源布道者。
+积极参与 SIG 以及 Linux 基金会组织的各种活动，获得至少一位开源布道者的提名，最终由 Linux 基金会亚太区审核通过后，邀请加入 Linux Foundation APAC 开源布道者。
