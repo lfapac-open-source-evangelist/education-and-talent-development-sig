@@ -16,7 +16,7 @@ body:
     id: name
     attributes:
       label: Name(姓名)
-      description: 请留下您的真是姓名，方便志愿者与您联系
+      description: 请留下您的真实姓名，方便志愿者与您联系
       placeholder: ex. 张三
     validations:
       required: true
