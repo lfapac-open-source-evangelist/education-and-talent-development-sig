@@ -1,0 +1,52 @@
+name: join LFAPAC Education SIG
+description: Apply to join the LFAPAC Education and Talent Development SIG
+title: "[New Member]: "
+labels: ["new member"]
+assignees:
+  - sunny0826
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢您申请加入 LFAPAC 教育与人才发展 SIG！
+        志愿者的工作内容包括现场协调、宣传推广、技术支持等。有权参与 SIG 主席的选举并拥有投票权。 
+        通过以上方式参与贡献，您将为 SIG的 发展做出宝贵的贡献，并有机会在 SIG 的贡献者页面展示您的成果。
+        同时，您将结识到志同道合的伙伴，共同学习和成长。
+  - type: input
+    id: name
+    attributes:
+      label: Name(姓名)
+      description: 请留下您的真是姓名，方便志愿者与您联系
+      placeholder: ex. 张三
+    validations:
+      required: true
+  - type: textarea
+    id: self-introduction
+    attributes:
+      label: Self Introduction(自我介绍)
+      description: 简单的介绍一下自己
+    validations:
+      required: true
+  - type: input
+    id: wechat
+    attributes:
+      label: 微信号
+      description: 您的微信号
+      placeholder: WeChat ID
+    validations:
+      required: true
+  - type: input
+    id: company
+    attributes:
+      label: 公司
+      description: 您所在的公司（可选）
+    validations:
+      required: false
+  - type: input
+    id: role
+    attributes:
+      label: 职位
+      description: 您的职位（可选）
+    validations:
+      required: false
+  
