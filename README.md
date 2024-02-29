@@ -26,3 +26,4 @@ Education 特别兴趣小组 （SIG） 是由对开源教育以及开源人才�
 
 - [Xudong Guo](https://github.com/sunny0826) Evangelist Team Member, Chair of Edu SIG
 - [Xiaoming Li](https://github.com/sunny0826/nliver) Evangelist Team Member
+- [Zhengwei Chen](https://github.com/hintcnuie) Evangelist Team Member
