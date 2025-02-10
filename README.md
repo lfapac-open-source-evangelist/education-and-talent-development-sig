@@ -36,6 +36,7 @@ Education 特别兴趣小组 （SIG） 是由对开源教育以及开源人才�
 - [LFAPAC Education SIG 2023 H1 Report](https://mp.weixin.qq.com/s/IquO7AxFmJ5kB6Yb8FM0WQ)
 - [LFAPAC Education SIG 2023 H2 Report](https://mp.weixin.qq.com/s/ltXPPXmXpJVXhhwp-VUd3w)
 - [LFAPAC Education SIG 2024 H1 Report](https://mp.weixin.qq.com/s/9lo4Aa6sP9Z6W3mU-Vj-bw)
+- [LFAPAC Education SIG 2024 H2 Report](https://mp.weixin.qq.com/s/lUiBWbCcbWFPWy-47CsZBQ)
 
 ## Members
 
